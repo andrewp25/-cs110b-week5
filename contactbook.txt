@@ -1,0 +1,10 @@
+Allan	Faulkner	(320) 688-7194	79 Augusta Dr.	San Diego	CA	92154
+Aurora	Marks	(360) 570-9492	1138 Franklin Avenue	Flatonia	TX	78941
+Damarion	Francis	(904) 515-0293	9113 Mill St. 	Woodhaven	NY	11425
+Erik	Atkins	(286) 628-0683	496 Central Street	Greenwood	SC	22365
+Lydia	Brennan	(774) 218-0597	45 Manchester Street 	Columbia	MD	21045
+Michael	Haley	(479) 652-6395	7363 Princeton Lane 	Port Washington	NY	11080
+Miley	Bryant	(504) 314-1189	4221 Mandan Road	Old Appleton	MO	63770
+Nathen	Wolf	(757) 947-7297	667 Pawnee Dr. 	San Francisco	CA	94109
+Rhys	Medina	(963) 530-1235	9604 Glenridge Rd. 	Grand Blanc	MI	48439
+Yosef	Roberts	(805) 618-6382	37 Glenridge St. 	Jupiter	FL	33475
